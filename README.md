@@ -1,10 +1,9 @@
 # Kef Tap
 
 ## How do I install these formulae?
+`brew install ziermmar/brew-tap/<formula>`
 
-`brew install kef/tap/<formula>`
-
-Or `brew tap kef/tap` and then `brew install <formula>`.
+Or `brew tap ziermmar/brew-tap` and then `brew install <formula>`.
 
 ## Documentation
 
